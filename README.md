@@ -6,6 +6,7 @@ Deze handleiding laat je zien hoe je Port-check kan laten werken op jouw PC.
 
 ## Wat heb je nodig?
 Alleen de code zou genoeg moeten zijn.
+Versie 2 heeft duidelijkere code.
 
 
 ## Testen en Gebruiken
