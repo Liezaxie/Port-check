@@ -1,4 +1,5 @@
 # Port-check
+Zie versie 2
 Kijk welke poorten open staan.
 
 ## Getting Started
